@@ -2,6 +2,8 @@
 Provides Information regarding the subject named as Engineering Design, Taught at VIT (Vellore Institute of Technology)
 (VIT BHOPAL UNIVERSITY)
 
+### Course Instructor:- Dr. Priyanjali Gogikar
+
 # Overview
 
 
