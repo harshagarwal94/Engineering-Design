@@ -92,4 +92,4 @@ Diagrams; K Scripts
 
 # Disclaimer
 * Educational Purpose 
-* CC0-1.0 licensed
+* Open Source licensed
